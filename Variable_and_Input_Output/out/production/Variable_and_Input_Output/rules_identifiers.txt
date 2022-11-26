@@ -1,0 +1,7 @@
+Rules for Identifiers in Java
+
+1. All identifier should begin with a letter(A to Z or a to z), currency character ($), or an underscore(_).
+2. After first character identifiers can have any combination of characters.
+3. A keyword can't be use as a identifier.
+4. Identifiers are case-sensitive.
+5. whitespace is not permmited
