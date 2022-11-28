@@ -1,0 +1,9 @@
+JAVA OPerators
+
+1. Arithmetic Operators
+2. relational Operators
+3. Logical Operators
+4. Assignment Operators
+5. Unary Operators
+6. Bitwise Operators
+
