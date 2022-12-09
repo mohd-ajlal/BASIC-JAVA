@@ -9,10 +9,10 @@ public class sum_of_stream_int {
 //            sum += num;
 //            num =scan.nextInt();
 //        }while (num != -1);
-        while (num != -1){
-            sum+= num;
-            num =scan.nextInt();
-//        }
-        System.out.println(sum);
+        while (num != -1) {
+            sum += num;
+            num = scan.nextInt();
+        }
+            System.out.println(sum);
+        }
     }
-}
