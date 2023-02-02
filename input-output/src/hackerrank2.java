@@ -1,6 +1,6 @@
-public import java.util.Scanner;
+import java.util.Scanner;
 
-public class Solution {
+public class hackerrank2 {
 
     public static void main(String[] args) {
             Scanner sc=new Scanner(System.in);
@@ -13,6 +13,4 @@ public class Solution {
             System.out.println("================================");
 
     }
-} {
-    
 }
