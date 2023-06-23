@@ -21,4 +21,3 @@ class JAVA_loop_2{
         }
         // in.close();
     }
-
