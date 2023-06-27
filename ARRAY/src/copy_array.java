@@ -16,6 +16,7 @@ public class copy_array {
         }
 
         int arr_new[] = arr;
+        // int arr_new = arr.clone(); // copy the array without changing the value in original array
         System.out.println("The new array is: ");
         print_array(arr_new);
 
