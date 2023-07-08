@@ -21,6 +21,21 @@ public class sorted_or_not {
         }
         return true;
     }
+
+    static int[] smallest_and_LargestElement(int arr[]){
+        int smallest = arr[0];
+        int largest = arr[0];
+        for(int i = 0; i<arr.length; i++){
+            if(arr[i] < smallest){
+                smallest = arr[i];
+            }
+            if(arr[i] > largest){
+                largest = arr[i];
+            }
+        }
+        int ans[] = {smallest, largest};
+        return ans;
+    }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter size of array: ");
@@ -34,5 +49,8 @@ public class sorted_or_not {
         else{
             System.out.println("The array is not sorted");
         }
+
+        int ans[] = smallest_and_LargestElement(arr);
+        print_array(ans);
     }
 }
