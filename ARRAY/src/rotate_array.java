@@ -17,8 +17,8 @@ public class rotate_array {
 
     static int[] rotate(int array[], int k){
         for(int i = 0; i < k; i++){
-            int temp = array[array.length - 1];
-            for(int j = array.length - 1; j > 0; j--){
+            int temp = array[array.length - 1]; 
+            for(int j = array.length - 1; j > 0; j--){ // j = 4, 3, 2, 1 
                 array[j] = array[j - 1];
             }
             array[0] = temp;
