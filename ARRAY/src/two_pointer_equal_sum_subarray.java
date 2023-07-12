@@ -1,3 +1,6 @@
+// Check if we can partition the  array in two subarrays with equal sum. 
+// More formally, check that the prefix sum of a apart of a array is equal to the suffix sum of rest of the array.  
+
 import java.util.Scanner;
 
 public class two_pointer_equal_sum_subarray {
