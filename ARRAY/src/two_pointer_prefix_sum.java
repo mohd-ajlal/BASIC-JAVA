@@ -1,4 +1,4 @@
-// Given an array integer 'a', rerturn the prefix sum/running sum in the same array bwithout creating a new array.
+// Given an array integer 'a', rerturn the prefix sum/running sum in the same array without creating a new array.
 
 import java.util.Scanner;
 
