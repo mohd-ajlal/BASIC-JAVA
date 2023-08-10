@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c5b42aa-e21a-4035-ae7f-edbd8dce421c" name="Changes" comment="" />
+    <list default="true" id="9c5b42aa-e21a-4035-ae7f-edbd8dce421c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Classroom/Classroom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classroom/src/Lecture1/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classroom/src/Lecture1/pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classroom/src/Lecture1/pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/BASIC-JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/BASIC-JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARRAY/src/two_pointer_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ARRAY/src/two_pointer_sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/odd_even.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Conditionals/src/odd_even.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First_Java_Program/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../First_Java_Program/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First_Java_Program/out/production/First_Java_Program/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../First_Java_Program/out/production/First_Java_Program/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First_Java_Program/out/production/First_Java_Program/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First_Java_Program/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Function/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Function/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INPUT_OUTPUT_Program/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../INPUT_OUTPUT_Program/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INPUT_OUTPUT_Program/out/production/Program/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INPUT_OUTPUT_Program/out/production/Program/Read_Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/../INPUT_OUTPUT_Program/out/production/Program/Read_Character.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPS/src/package.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPS/src/package.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPS/src/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variable_and_Data_Types/src/tempCodeRunnerFile.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +49,31 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2LHed8CFwtjS9g99au6ldf0CC9w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Java/BASIC-JAVA/PROGRAM",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/BASIC-JAVA/Pattern&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,8 +82,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675532521515</updated>
+      <workItem from="1691476517083" duration="1949000" />
+      <workItem from="1691518532670" duration="60000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
