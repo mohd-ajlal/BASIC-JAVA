@@ -5,31 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c5b42aa-e21a-4035-ae7f-edbd8dce421c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Classroom/Classroom.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classroom/src/Lecture1/hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classroom/src/Lecture1/pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classroom/src/Lecture1/pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/BASIC-JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/BASIC-JAVA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ARRAY/src/two_pointer_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ARRAY/src/two_pointer_sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Conditionals/src/odd_even.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Conditionals/src/odd_even.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../First_Java_Program/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../First_Java_Program/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../First_Java_Program/out/production/First_Java_Program/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../First_Java_Program/out/production/First_Java_Program/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../First_Java_Program/out/production/First_Java_Program/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../First_Java_Program/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Function/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Function/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INPUT_OUTPUT_Program/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../INPUT_OUTPUT_Program/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INPUT_OUTPUT_Program/out/production/Program/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INPUT_OUTPUT_Program/out/production/Program/Read_Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/../INPUT_OUTPUT_Program/out/production/Program/Read_Character.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPS/src/package.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPS/src/package.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPS/src/tempCodeRunnerFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variable_and_Data_Types/src/tempCodeRunnerFile.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +62,8 @@
       <updated>1675532521515</updated>
       <workItem from="1691476517083" duration="1949000" />
       <workItem from="1691518532670" duration="60000" />
+      <workItem from="1691736288775" duration="2200000" />
+      <workItem from="1691856465924" duration="33000" />
     </task>
     <servers />
   </component>
