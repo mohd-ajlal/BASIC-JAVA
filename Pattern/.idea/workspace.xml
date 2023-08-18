@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c5b42aa-e21a-4035-ae7f-edbd8dce421c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pattern16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mohd_ajlal/ques1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pattern/pattern16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Pattern/pattern16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pattern/pattern17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Pattern/pattern17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern16.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,22 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java/BASIC-JAVA/Pattern&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Java/BASIC-JAVA/Binary Search",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,6 +66,9 @@
       <workItem from="1691518532670" duration="60000" />
       <workItem from="1691736288775" duration="2200000" />
       <workItem from="1691856465924" duration="33000" />
+      <workItem from="1692087865217" duration="59000" />
+      <workItem from="1692088874929" duration="1982000" />
+      <workItem from="1692292119372" duration="268000" />
     </task>
     <servers />
   </component>
