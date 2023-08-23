@@ -8,3 +8,4 @@ public class caltulating_function {
         System.out.println(out);
     }
 }
+    
