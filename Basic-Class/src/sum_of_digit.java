@@ -1,12 +1,15 @@
 import java.util.Scanner;
 
-public class decimal_to_binary {
+public class sum_of_digit {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
+        int out = 0;
         while(num>0){
-            System.out.print(num&1);
-            num = num>>1;
+            int temp = num % 10;
+            num = num/10;
+            out += temp;
         }
+        System.out.println(out);
     }
 }
