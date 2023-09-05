@@ -10,7 +10,7 @@ public class pattern1 {
             for(int j = 0; j<2*i+1; j++){
                 k = j<=i ? k+1: k-1;
                 if(j==i){
-                    System.out.print("0 ");
+                    System.out.print("0 "); 
                 }else{
                     System.out.print(k+ " ");
                 }
