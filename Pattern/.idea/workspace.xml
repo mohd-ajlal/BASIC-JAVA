@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c5b42aa-e21a-4035-ae7f-edbd8dce421c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/decimal_to_binary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pattern/deciaml_to_binary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Pattern/deciaml_to_binary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deciaml_to_binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deciaml_to_binary.java" afterDir="false" />
-    </list>
+    <list default="true" id="9c5b42aa-e21a-4035-ae7f-edbd8dce421c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +40,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Java/BASIC-JAVA/Pattern",
+    "last_opened_file_path": "D:/Java/JAVA-DSA/Binary Search",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +65,7 @@
       <workItem from="1692088874929" duration="1982000" />
       <workItem from="1692292119372" duration="268000" />
       <workItem from="1693200212003" duration="2691000" />
+      <workItem from="1693901220861" duration="13000" />
     </task>
     <servers />
   </component>
