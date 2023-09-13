@@ -4,7 +4,7 @@ public class rotate_array {
     static void array_input(int array[], int size){
         Scanner sc = new Scanner(System.in);
         for(int i = 0; i < size; i++){
-            System.out.print("Enter element at index "+i+": ");
+            // System.out.print("Enter element at index "+i+": ");
             array[i] = sc.nextInt();
         }
     }
@@ -14,17 +14,38 @@ public class rotate_array {
             System.out.print(array[i] + " ");
         }
     }
-
-    static int[] rotate(int array[], int k){
-        for(int i = 0; i < k; i++){
-            int temp = array[array.length - 1]; 
-            for(int j = array.length - 1; j > 0; j--){ // j = 4, 3, 2, 1 
-                array[j] = array[j - 1];
-            }
-            array[0] = temp;
-        }
-        return array;
+    static void swap(int arr[], int i, int j){
+        int temp = arr[i]; 
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
+
+    static void rotate_array(int arr[], int k){
+        // for(int i = 0; i < k; i++){
+        //     int temp = array[array.length - 1]; 
+        //     for(int j = array.length - 1; j > 0; j--){ 
+        //         array[j] = array[j - 1];
+        //     }
+        //     array[0] = temp;
+        // }
+        // return array;
+
+        k %= arr.length;
+            rotate(arr, 0, arr.length-1);
+            rotate(arr, 0, k-1);
+            rotate(arr, k, arr.length-1);
+        }
+
+        static void rotate(int[] arr, int start, int end){
+            while(start < end){
+                int temp = arr[start];
+                arr[start] = arr[end];
+                arr[end] = temp;
+                start++;
+                end--;
+            }
+        }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter size of array: ");
@@ -37,7 +58,7 @@ public class rotate_array {
         System.out.println();
         System.out.print("Enter number of rotations: ");
         int k = sc.nextInt();
-        rotate(array, k);
+        rotate_array(array, k);
         array_output(array);   
     }
 }
