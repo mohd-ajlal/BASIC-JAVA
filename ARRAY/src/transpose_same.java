@@ -21,7 +21,7 @@ public class transpose_same {
 
     static int[][] array_transpose(int arr[][]){
         for(int i = 0; i<arr.length; i++){
-            for(int j = i; j<arr[i].length; j++){ //for(int i = 0; i<arr[i].length; i++){
+            for(int j = i+1; j<arr[i].length; j++){ //for(int i = 0; i<arr[i].length; i++){
                 // if(i<j){
                     int temp = arr[i][j];
                     arr[i][j] = arr[j][i];
